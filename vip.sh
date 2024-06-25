@@ -24,8 +24,9 @@ typing() {
 # Menampilkan loading
 loading
 
-# Menggunakan figlet untuk menampilkan teks
-echo "UNCHECK PREMIUM BY LAWWSTORE"
+
+    echo "UNCHECK PREMIUM BY LAWWSTORE"
+fi
 
 # Menampilkan informasi satu per satu
 typing "DATE : $(date)"
